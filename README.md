@@ -1,8 +1,8 @@
-## Next.js Dashboard 
+# Next.js Dashboard 
 
 The official Next.js Learn Dashboard built with App Router.
 
-# Credentials
+## Credentials
 
-Email: user@nextmail.com
+Email: user@nextmail.com <br/>
 Password: 123456
